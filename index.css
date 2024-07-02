@@ -1,0 +1,31 @@
+body {
+    margin: 20px;
+    background-color: #ECFDF5;
+}
+.spancolor{
+    color: #10B981;
+}
+.clr{
+    color: #6B7280
+}
+.btn{
+    background-color: #10B981;
+    border: 0px;
+    border-radius: 3px;
+    padding: 6px;
+    margin-top: 15px;
+    color: white;
+}
+.pass-div{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.btn-pwd{
+    margin-right: 25px;
+    background-color: #273549;
+    border: 0px;
+    border-radius: 5px;
+    padding: 7px 20px;
+    color: #5DEF92;
+}
